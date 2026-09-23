@@ -1,0 +1,4 @@
+replicaCount: 1
+image:
+  repository: hillel456/python-devops-pipeline
+  tag: "1"
