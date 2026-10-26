@@ -1,4 +1,4 @@
 replicaCount: 1
 image:
   repository: hillel456/python-devops-pipeline
-  tag: "build-16_2026-10-26_16-44-22"
+  tag: "build-18_2026-10-26_16-58-20"
